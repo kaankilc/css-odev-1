@@ -1,0 +1,26 @@
+body {
+    background-color: gainsboro;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+img {
+    width: 400px;
+}
+
+nav li {
+    display: inline;
+    margin: 10px 30px;
+} 
+
+em {
+    font-size: 30px;
+    color: goldenrod;
+}
+
+header {
+    margin-bottom: 50px;
+}
